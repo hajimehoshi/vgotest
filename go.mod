@@ -1,1 +1,1 @@
-module "github.com/hajimehoshi/vgotest/hoge"
+module "github.com/hajimehoshi/vgotest/v999999999999999999999999999999"
