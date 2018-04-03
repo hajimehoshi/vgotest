@@ -5,5 +5,5 @@ import (
 )
 
 func Hello() {
-	fmt.Println("Hello 2.0 (WIP)")
+	fmt.Println("Hello 3.0 (WIP)")
 }
